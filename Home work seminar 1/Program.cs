@@ -48,8 +48,40 @@ if (num3 > max)
 Console.WriteLine("max = " + max);
 */
 
-Task 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+/*Task 6: Напишите программу, которая на вход принимает число и выдаёт, является ли
+число чётным (делится ли оно на два без остатка).
+Примеры:
 4 -> да
 -3 -> нет
 7 -> нет
 
+/*Program
+
+Console.Write("input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if  (num % 2 == 0)
+    Console.WriteLine("Yes");
+else
+    Console.WriteLine("No");
+/*
+
+/*
+Task 8: Напишите программу, которая на вход принимает число (N), 
+а на выходе показывает все чётные числа от 1 до N.
+Примеры:
+5 -> 2, 4
+8 -> 2, 4, 6, 8
+*/
+//Program
+
+Console.Write("input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+int current = 1;
+
+while(current <= num)
+{
+    if (current % 2 == 0) Console.Write(current + " ");
+    current++;
+}
