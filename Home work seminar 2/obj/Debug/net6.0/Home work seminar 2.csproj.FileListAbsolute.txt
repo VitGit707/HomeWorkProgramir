@@ -1,0 +1,15 @@
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\bin\Debug\net6.0\Home work seminar 2.exe
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\bin\Debug\net6.0\Home work seminar 2.deps.json
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\bin\Debug\net6.0\Home work seminar 2.runtimeconfig.json
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\bin\Debug\net6.0\Home work seminar 2.dll
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\bin\Debug\net6.0\Home work seminar 2.pdb
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.csproj.AssemblyReference.cache
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.AssemblyInfoInputs.cache
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.AssemblyInfo.cs
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.csproj.CoreCompileInputs.cache
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.dll
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\refint\Home work seminar 2.dll
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.pdb
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\Home work seminar 2.genruntimeconfig.cache
+C:\Users\avitz\OneDrive\Рабочий стол\HomeWorkProgramir\Home work seminar 2\obj\Debug\net6.0\ref\Home work seminar 2.dll
